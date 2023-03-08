@@ -1,0 +1,52 @@
+[
+    {
+        "nombre": "Ferrari F430",
+        "modelo": 2009,
+        "color": "Red"
+    },
+    {
+        "nombre": "Hyundai Elantra",
+        "modelo": 2013,
+        "color": "Red"
+    },
+    {
+        "nombre": "Toyota Yaris",
+        "modelo": 2010,
+        "color": "Khaki"
+    },
+    {
+        "nombre": "Mercedes-Benz C-Class",
+        "modelo": 2012,
+        "color": "Crimson"
+    },
+    {
+        "nombre": "Mercedes-Benz E-Class",
+        "modelo": 2004,
+        "color": "Maroon"
+    },
+    {
+        "nombre": "Buick Somerset",
+        "modelo": 1987,
+        "color": "Turquoise"
+    },
+    {
+        "nombre": "Suzuki Grand Vitara",
+        "modelo": 2011,
+        "color": "Green"
+    },
+    {
+        "nombre": "Nissan Altima",
+        "modelo": 2002,
+        "color": "Crimson"
+    },
+    {
+        "nombre": "Pontiac Grand Am",
+        "modelo": 1987,
+        "color": "Blue"
+    },
+    {
+        "nombre": "Mazda RX-8",
+        "modelo": 2006,
+        "color": "Goldenrod"
+    }
+]
